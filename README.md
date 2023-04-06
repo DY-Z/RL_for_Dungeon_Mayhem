@@ -6,6 +6,9 @@ The models we tried are Deep Monte Carlo and DQN. The results showed that Deep M
 
 We also examined the impact of pre-training. It turns out that pre-training with a carefully chosen heuristic function can improve the performance of both DMC and DQN.
 
+You can find our presentation slides here.
+https://onedrive.live.com/view.aspx?resid=A756E5C1507D46C8!739&ithint=file%2cpptx&authkey=!ABjW8sW-RCAp-FA
+
 ## References
 
 Zha, D., Xie, J., Ma, W., Zhang, S., Lian, X., Hu, X. &amp; Liu, J.. (2021). DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning. <i>Proceedings of the 38th International Conference on Machine Learning</i>, in <i>Proceedings of Machine Learning Research</i> 139:12333-12344 Available from https://proceedings.mlr.press/v139/zha21a.html.
