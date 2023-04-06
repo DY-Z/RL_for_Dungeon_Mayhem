@@ -12,4 +12,4 @@ Zha, D., Xie, J., Ma, W., Zhang, S., Lian, X., Hu, X. &amp; Liu, J.. (2021). Dou
 
 
 
-Authors of this paper also have an open-source framewrok named as ** RLCard ** on Github.
+Authors of this paper also have an open-source framewrok named as *RLCard* on Github.
